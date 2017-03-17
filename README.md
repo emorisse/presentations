@@ -1,6 +1,6 @@
 # Finance of IT
 ## Elephant in the Room - What's the Cost of an OpenStack Cloud
-[Presentation with Updated Cost Numbers](https://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/) from OpenStack Days East 2016  
+[Presentation with Updated Cost Numbers](https://github.com/emorisse/presentations/raw/master/OpenStack%20East%202016%20-%20Elephant%20in%20the%20Room-%20What's%20the%20TCO%20for%20an%20OpenStack%20cloud-.pdf) from OpenStack Days East 2016  
 [Presentation Slides](https://github.com/emorisse/presentations/raw/master/Public%20-%20Elephant%20in%20the%20Room-%20What's%20the%20TCO%20for%20an%20OpenStack%20cloud-Austin.pdf) from OpenStack Austin 2016.   
 [Full write-up](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/) of research.   
 [Recording Austin](https://www.youtube.com/watch?v=GK0v9ebCHUQ) 2016 / [Recording Tokyo](https://www.youtube.com/watch?v=LFv_m-j3E10) 2015  
